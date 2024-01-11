@@ -77,8 +77,6 @@ font-family: 'Raleway', sans-serif;
 /* ----- HEADER -----*/
 
 .header {
-    margin-left: auto;
-    padding: 24px 0;
     border-bottom: 1px solid #e7e9fc;
 } 
 
@@ -256,7 +254,6 @@ font-size: 16px;
 font-weight: 400;
 line-height: 1.50;
 letter-spacing: 0.02em;
-padding: 8px;
 }
 
 /* ----- PORTFOLIO -----*/
